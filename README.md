@@ -1,4 +1,4 @@
-# Lite Rx API Hands-on
+# Sofka U - Actividad 2 - programación Reactiva
 
 Proyecto en Java Reactivo haciendo uso de Flux , Mono y stepverifier para programar de manera reactiva.
 Se plantean 11 ejercicios a los cuales se le debe configurar para que pasen las pruebas
