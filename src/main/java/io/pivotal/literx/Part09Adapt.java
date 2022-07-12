@@ -66,7 +66,7 @@ public class Part09Adapt {
 		return Flux.from(observable.toFlowable(BackpressureStrategy.BUFFER));
 	}
 
-//========================================================================================
+
 
 	// TODO Adapt Mono to RxJava Single
 	Single<User> fromMonoToSingle(Mono<User> mono) {
@@ -78,7 +78,6 @@ public class Part09Adapt {
 		return Mono.from(single.toFlowable());
 	}
 
-//========================================================================================
 
 	// TODO Adapt Mono to Java 8+ CompletableFuture
 	CompletableFuture<User> fromMonoToCompletableFuture(Mono<User> mono) {
