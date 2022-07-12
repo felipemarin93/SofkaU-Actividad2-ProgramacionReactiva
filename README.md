@@ -7,9 +7,9 @@ Esta práctica está diseñada para ayudarlo a aprender fácilmente la API lite 
 
 Necesitamos implementar 3 clases de la librería:
 
- - [Flux](https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html)
- - [Mono](https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html)
- - [StepVerifier](https://projectreactor.io/docs/test/release/api/reactor/test/StepVerifier.html)
+ - Flux(https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html)
+ - Mono(https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html)
+ - StepVerifier(https://projectreactor.io/docs/test/release/api/reactor/test/StepVerifier.html)
  
 Para hacer eston, solo tienes que:
 
