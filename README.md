@@ -1,6 +1,9 @@
 # Lite Rx API Hands-on
 
-This Hands-on is designed to help you to learn easily the lite Rx API provided by [Reactor Core 3.x](https://github.com/reactor/reactor-core/).
+Proyecto en Java Reactivo haciendo uso de Flux , Mono y stepverifier para programar de manera reactiva.
+Se plantean 11 ejercicios a los cuales se le debe configurar para que pasen las pruebas
+
+Esta práctica está diseñada para ayudarlo a aprender fácilmente la API lite Rx proporcionada por [Reactor Core 3.x]
 
 You will mostly need these 3 classes Javadoc:
 
@@ -8,17 +11,13 @@ You will mostly need these 3 classes Javadoc:
  - [Mono](https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html)
  - [StepVerifier](https://projectreactor.io/docs/test/release/api/reactor/test/StepVerifier.html)
  
-To do this Hands-on, you just have to:
+Para hacer eston, solo tienes que:
 
- - Have [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and a Java IDE ([IntelliJ IDEA](https://www.jetbrains.com/idea/) for example) installed with Maven support
- - Clone this repository (or your fork)
- - Import the project as a Maven one in your IDE
- - Make sure that the language level is set to Java 8 in your IDE project settings
- - Fix the TODO one by one in Part01 to Part11 main classes in `io.pivotal.literx` package
-   to make unit tests green (you can have a look at the unit tests too if you want)
+ - Tener [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) y un IDE de Java ([IntelliJ IDEA](https://www.jetbrains .com/idea/) por ejemplo) instalado con soporte Maven
+ - Clona este repositorio (o tu bifurcación)
+ - Importa el proyecto como Maven en tu IDE
+ - Asegúrese de que el nivel de idioma esté configurado en Java 8 en la configuración de su proyecto IDE
+ - Arreglar TODO uno por uno en las clases principales Part01 a Part11 en el paquete `io.pivotal.literx`
+   para hacer que las pruebas unitarias sean verdes (también puede echar un vistazo a las pruebas unitarias si lo desea)
 
-The solution is available in the `solution` branch to compare, when you have finished, with what you have done.
-
-A Kotlin version that takes advantage of [reactor-kotlin-extensions](https://github.com/reactor/reactor-kotlin-extensions) is available [here](https://github.com/eddumelendez/reactor-kotlin-workshop).
- 
-More information available on [Reactor website](https://projectreactor.io).
+Autor: Daniel Felipe Marin Giraldo
