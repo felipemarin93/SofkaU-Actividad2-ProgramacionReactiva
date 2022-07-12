@@ -16,7 +16,7 @@ import reactor.core.scheduler.Schedulers;
  *  - RxJava observeOn = Reactor publishOn
  *  - RxJava Schedulers.io <==> Reactor Schedulers.elastic
  *
- * @author Sebastien Deleuze
+ * @author Daniel Felipe Marin
  * @see Flux#subscribeOn(Scheduler)
  * @see Flux#publishOn(Scheduler)
  * @see Schedulers

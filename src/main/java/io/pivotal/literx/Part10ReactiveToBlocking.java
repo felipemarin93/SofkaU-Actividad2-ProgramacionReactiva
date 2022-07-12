@@ -5,9 +5,8 @@ import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
 /**
- * Learn how to turn Reactive API to blocking one.
- *
- * @author Sebastien Deleuze
+ * @author Daniel Felipe Marin
+ * @email felipemaringiraldo@hotrmail.com
  */
 public class Part10ReactiveToBlocking {
 
