@@ -1,11 +1,11 @@
 # Sofka U - Actividad 2 - programación Reactiva
 
-Proyecto en Java Reactivo haciendo uso de Flux , Mono y stepverifier para programar de manera reactiva.
+Proyecto en Java Reactivo usando IntelliJ Idea como IDE, haciendo uso de Flux , Mono y stepverifier para programar de manera reactiva.
 Se plantean 11 ejercicios a los cuales se le debe configurar para que pasen las pruebas
 
 Esta práctica está diseñada para ayudarlo a aprender fácilmente la API lite Rx proporcionada por [Reactor Core 3.x]
 
-You will mostly need these 3 classes Javadoc:
+Necesitamos implementar 3 clases de la librería:
 
  - [Flux](https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html)
  - [Mono](https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html)
@@ -21,3 +21,6 @@ Para hacer eston, solo tienes que:
    para hacer que las pruebas unitarias sean verdes (también puede echar un vistazo a las pruebas unitarias si lo desea)
 
 Autor: Daniel Felipe Marin Giraldo
+
+
+![image](https://user-images.githubusercontent.com/51167724/178384288-009b893d-359c-4b54-ac6f-816924b14d27.png)
