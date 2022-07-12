@@ -20,7 +20,10 @@ Para hacer eston, solo tienes que:
  - Arreglar TODO uno por uno en las clases principales Part01 a Part11 en el paquete `io.pivotal.literx`
    para hacer que las pruebas unitarias sean verdes (también puede echar un vistazo a las pruebas unitarias si lo desea)
 
-Autor: Daniel Felipe Marin Giraldo
+
 
 
 ![image](https://user-images.githubusercontent.com/51167724/178384288-009b893d-359c-4b54-ac6f-816924b14d27.png)
+
+Autor: Daniel Felipe Marin Giraldo
+correo: Felipemaringiraldo@hotmail.com
